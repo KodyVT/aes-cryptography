@@ -1,4 +1,4 @@
-package com.github.kodyvt.aes_cryptography.exceptions;
+package com.github.kodyvt.aes_cryptography.commons.exceptions;
 
 public class CryptographyException extends Exception {
     public CryptographyException(String message) {
